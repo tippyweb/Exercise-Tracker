@@ -1,3 +1,9 @@
+/**
+ * ##############################################
+ *  Exercise Tracker - 2024-10-10
+ * ##############################################
+ */
+
 require('dotenv').config();
 const express = require('express');
 const app = express();
